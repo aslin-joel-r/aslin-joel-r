@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **django framework**
 
-- 💬 Ask me about **python,java**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 

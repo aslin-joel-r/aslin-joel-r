@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslin-r" alt="aslin-r" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aslin_joel_r" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aslin_joel_r?logo=twitter&style=for-the-badge" alt="https://twitter.com/aslin_joel_r" /></a> </p>
 
 - 🌱 I’m currently learning **django framework**
 

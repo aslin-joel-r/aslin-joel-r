@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">CSE15</h3>
+<h3 align="center">All glory to Jesus</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslin-r" alt="aslin-r" /></a> </p>
 

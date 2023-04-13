@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
 <h3 align="center">All glory to Jesus</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslin-r" alt="aslin-r" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on My dream Project [Problem Solver](https://github.com/Aslin-R/mini_project-S6)
+## 💥 About Me 
+- 🔭 I’m currently working on [Problem Solver](https://github.com/Aslin-R/mini_project-S6)
 
 - 🌱 I’m currently learning **django framework**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 
-- ⚡ Fun fact **Slow Progress is Better Than , No Progress**
+- ⚡ Fun fact **" Slow Progress is Better Than , No Progress "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

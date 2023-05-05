@@ -7,7 +7,7 @@
 ## 💥 About Me 
 - 🔭 I’m currently working on [Problem Solver](https://github.com/Aslin-R/mini_project-S6)
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Vue js,Figma**
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 

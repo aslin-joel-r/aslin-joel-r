@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💥 About Me 
-- 🔭 I’m currently working on [Problem Solver](https://github.com/Aslin-R/mini_project-S6)
+- 🔭 I’m currently working on [mfc-app](https://github.com/MazhaiTech/mfc-app)
 
 - 🌱 I’m currently learning **Spring Boot**
 

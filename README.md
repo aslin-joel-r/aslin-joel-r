@@ -7,7 +7,7 @@
 ## 💥 About Me 
 - 🔭 I’m currently working on [mfc-app](https://github.com/MazhaiTech/mfc-app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 

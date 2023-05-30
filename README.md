@@ -12,6 +12,7 @@
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 
 - ⚡ Fun fact **" Slow Progress is Better Than , No Progress "**
+- 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

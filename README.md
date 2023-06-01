@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">All glory to Jesus</h3>
+<h3 align="center">All glory to <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 
-- ⚡ Fun fact **" Slow Progress is Better Than , No Progress "**
+- 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
-- 🏅 Want to acheive **1K+** contributions in 2023
+- ⚡ Want to acheive **1K+** contributions in 2023
 - 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
 
 

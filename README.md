@@ -14,6 +14,8 @@
 - ⚡ Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
 - 🏅 Want to acheive **1K+** contributions in 2023
+- 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">All glory to <b>Jesus</b> 🕊️</h3>
+<h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
@@ -15,6 +15,7 @@
 - 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
 - ⚡ Want to acheive **1K+** contributions in 2023
 - 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
+- 📚 Preparing for the Semester exams
 
 
 <h3 align="left">Connect with me:</h3>

@@ -13,7 +13,7 @@
 
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
-- ⚡ Want to acheive **1.5K+** contributions in 2023
+- ⚡ Want to acheive **1.5k+** contributions in 2023
 - 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
 - 📚 Preparing for the Semester exams
 

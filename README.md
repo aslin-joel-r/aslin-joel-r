@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslin-r&show_icons=true&locale=en" alt="aslin-r" /></p>
 
-<p><a href="http://www.github.com/aslin-r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-r&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<p><a href="http://www.github.com/aslin-r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-r&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 </p>
 
 <a href="http://www.github.com/aslin-r"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aslin-r&bg_color=ffffff&color=a855f7&line=90EE90&point=006400&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

@@ -2,7 +2,7 @@
 <h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💥 About Me 
 - 🔭 I’m currently working on [mfc-app](https://github.com/MazhaiTech/mfc-app)

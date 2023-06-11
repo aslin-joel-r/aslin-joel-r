@@ -16,7 +16,7 @@
 - ⚡ Want to acheive **1.5k+** contributions in 2023
 - 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
 - 📚 Preparing for the Semester exams
-- 🏏 Playing **Cricket** on sundays
+- 🏏 Playing **Cricket** on Sundays
 
 
 <h3 align="left">Connect with me:</h3>

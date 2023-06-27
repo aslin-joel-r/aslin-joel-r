@@ -15,7 +15,7 @@
 - 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
 - ⚡ Want to acheive **1.5k+** contributions in 2023
 - 😇 Leader of **mpc-youth fellowship**
-- 👀 Looking for **internship**
+- 👀 Looking for **internships**
 - 🏏 Playing **Cricket** on Sundays
 
 

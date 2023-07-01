@@ -7,7 +7,7 @@
 ## 💥 About Me 
 - 🔭 I’m currently working on [mpc-youth-website](https://mpc-youths.github.io/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 

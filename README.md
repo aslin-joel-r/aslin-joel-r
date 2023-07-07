@@ -5,7 +5,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💥 About Me 
-- 🔭 I’m currently working on [mpc-youth-website](https://mpc-youths.github.io/)
 
 - 🌱 I’m currently learning **React**
 

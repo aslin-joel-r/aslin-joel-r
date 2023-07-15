@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">All glory to <b>Jesus</b> 🕊️</h3>
+<h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💥 About Me 
-- 🔭 I’m currently working on [mfc-app](https://github.com/MazhaiTech/mfc-app)
 
-- 🌱 I’m currently learning **React js**
-
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
-
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
-- 🚀 Inspired by **Kamarajar , Nikola Tesla , Abdul Kalam**
-- ⚡ Want to acheive **1K+** contributions in 2023
-- 🏅 Achieved the **YOLO** badge, next is the **Galaxy Brain** badge.
+- 🚀 Inspired by **Kamarajar , Abdul Kalam , Nikola Tesla **
+- ⚡ Want to acheive **1.5k+** contributions in 2023
+- 😇 Leader of **mpc-youth fellowship**
+- 👀 Looking for **internships**
+- 🏏 Playing **Cricket** on Sundays
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +34,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslin-r&show_icons=true&locale=en" alt="aslin-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-r&" alt="aslin-r" /></p>
+<p><a href="http://www.github.com/aslin-r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-r&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+</p>
 
 <a href="http://www.github.com/aslin-r"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aslin-r&bg_color=ffffff&color=a855f7&line=90EE90&point=006400&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
-- 🚀 Inspired by **Kamarajar , Abdul Kalam , Nikola Tesla **
+- 🚀 Inspired by **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) **
 - ⚡ Want to acheive **1.5k+** contributions in 2023
 - 😇 Leader of **mpc-youth fellowship**
 - 👀 Looking for **internships**

@@ -6,7 +6,7 @@
 
 ## 💥 About Me 
 
-- 🌱 I’m currently learning **node , express js , Angular**
+- 🌱 I’m currently learning **node , express js , Angular js,Typescript**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**

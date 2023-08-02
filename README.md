@@ -7,7 +7,7 @@
 ## 💥 About Me 
 - <img src="https://github.com/Aslin-R/Aslin-R/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> Web developer
 
-- 🌱 I’m currently learning **node , express js , Angular js,Typescript**
+- 🌱 I’m currently learning **Javascript in deep**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/aslin-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aslin-r" height="30" width="40" /></a>
 <a href="https://codepen.io/aslin-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aslin-r" height="30" width="40" /></a>
 <a href="https://twitter.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslin_joel_r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aslin-r-557175228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslin-r-557175228/" height="30" width="40" /></a>

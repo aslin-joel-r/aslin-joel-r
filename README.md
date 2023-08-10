@@ -12,6 +12,7 @@
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 🚀 Inspired by **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
 - 👀 Looking for **internships**
+- 📚 I am going to practice the **learn, unlearn, and relearn** technique after inspired from Barclays LifeSkills Programme
 
 
 <h3 align="left">Connect with me:</h3>

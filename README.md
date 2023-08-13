@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
+<h3 align="center">✨ All glory to only <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)

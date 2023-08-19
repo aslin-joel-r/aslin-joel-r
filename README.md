@@ -6,7 +6,7 @@
 
 ## 💥 About Me 
 - <img src="https://github.com/Aslin-R/Aslin-R/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> #Web developer
-
+- 🔎 Finding my true calling
 - 🌱 I’m currently learning **Javascript in deep**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**

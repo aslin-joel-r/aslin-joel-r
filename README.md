@@ -24,7 +24,7 @@
 <a href="https://instagram.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslin_joel_r" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools Learned:</h3>
 <p align="left"> 
 
 <p align="left">

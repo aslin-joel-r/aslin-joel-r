@@ -16,12 +16,22 @@
 - Feel it
 <figure>
   <audio controls>
-   
-    <source src="your-audio-file.mp3" type="audio/mpeg">
+    <source src="audio.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
- 
+  <style>
+    /* Change the color of the progress bar */
+    audio::-webkit-media-controls-panel {
+      background-color:pink;color:white;
+    }
+
+    /* Change the color of the play button */
+    audio::-webkit-media-controls-play-button {
+      background-color: green;
+    }
+  </style>
 </figure>
+
 
 
 

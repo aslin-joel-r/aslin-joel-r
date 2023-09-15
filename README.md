@@ -13,6 +13,16 @@
 - 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
 - 👀 Looking for **internships**
 - 📚 Want to practice the **learn, unlearn, and relearn** techniques .
+- Feel it
+<figure>
+  <audio controls>
+   
+    <source src="your-audio-file.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+ 
+</figure>
+
 
 
 <h3 align="left">Connect with me:</h3>

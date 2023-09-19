@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Javascript in deep**
 - 📫 How to reach me **aslinjoelr123@gmail.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
+- 😃 Interested domains **Web development** , **Machine learning**
 - 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
 - 👀 Looking for **internships**
 - 📚 Want to practice the **learn, unlearn, and relearn** techniques .

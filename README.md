@@ -2,10 +2,10 @@
 <h3 align="center">✨ All glory to only <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aslin-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aslin-joel-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💥 About Me 
-- <img src="https://github.com/Aslin-R/Aslin-R/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> #Web developer
+- <img src="https://github.com/aslin-joel-r/aslin-joel-r/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> #Web developer
 - 🔎 Finding my true calling
 - 🌱 I’m currently learning **Javascript in deep**
 - 📫 How to reach me **aslinjoelr@outlook.com**
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/aslin-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aslin-r" height="30" width="40" /></a>
+<a href="https://github.com/aslin-joel-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aslin-joel-r" height="30" width="40" /></a>
 <a href="https://twitter.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslin_joel_r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aslin-r-557175228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslin-r-557175228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aslin-joel-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslin-joel-r/" height="30" width="40" /></a>
 <a href="https://instagram.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslin_joel_r" height="30" width="40" /></a>
 </p>
 
@@ -47,12 +47,12 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslin-r&show_icons=true&locale=en&layout=compact" alt="aslin-r" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslin-joel-r&show_icons=true&locale=en&layout=compact" alt="aslin-joel-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslin-r&show_icons=true&locale=en" alt="aslin-r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslin-joel-r&show_icons=true&locale=en" alt="aslin-joel-r" /></p>
 
-<p><a href="http://www.github.com/aslin-r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-r&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<p><a href="http://www.github.com/aslin-joel-r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aslin-joel-r&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 </p>
 
-<a href="http://www.github.com/aslin-r"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aslin-r&bg_color=ffffff&color=a855f7&line=90EE90&point=006400&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/aslin-joel-r"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aslin-joel-r&bg_color=ffffff&color=a855f7&line=90EE90&point=006400&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

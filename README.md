@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">✨ All glory to only <b>Jesus</b> 🕊️</h3>
+<h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aslin-joel-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
@@ -7,14 +7,10 @@
 ## 💥 About Me 
 - <img src="https://github.com/aslin-joel-r/aslin-joel-r/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> #Web developer
 - 🔎 Finding my true calling
-- 🌱 I’m currently learning **Javascript in deep**
 - 📫 How to reach me **aslinjoelr@outlook.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
 - 😃 Interested domains **Web development** , **Machine learning**
 - 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
-- 👀 Looking for **internships**
-- 📚 Want to practice the **learn, unlearn, and relearn** techniques .
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

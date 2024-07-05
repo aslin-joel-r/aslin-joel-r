@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aslin R</h1>
-<h3 align="center">✨ All glory to <b>Jesus</b> 🕊️</h3>
+<h3 align="center">✨ I can do all this
+through <b>Christ</b> who
+gives me strength 🕊️</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aslin-joel-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)

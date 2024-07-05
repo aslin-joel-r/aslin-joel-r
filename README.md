@@ -5,11 +5,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=aslin-joel-r&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💥 About Me 
-- <img src="https://github.com/aslin-joel-r/aslin-joel-r/assets/101490905/420ac260-670e-4a87-a8b0-0cee78d9ab8a" width="23" height="23"> #Web developer
+
 - 🔎 Finding my true calling
 - 📫 How to reach me **aslinjoelr@outlook.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
-- 😃 Interested domains **Web development** , **Machine learning**
 - 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +31,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 </p>

@@ -8,17 +8,13 @@ gives me strength 🕊️</h3>
 
 ## 💥 About Me 
 
-- 🔎 Finding my true calling
 - 📫 How to reach me **aslinjoelr@outlook.com**
 - 😄 Fun fact **" Slow Progress is Better Than , No Progress "**
-- 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) , [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)**
+- 🚀 Inspirations **[Kamarajar](https://en.wikipedia.org/wiki/K._Kamaraj) , [Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/aslin-joel-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aslin-joel-r" height="30" width="40" /></a>
-<a href="https://twitter.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslin_joel_r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aslin-joel-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslin-joel-r/" height="30" width="40" /></a>
-<a href="https://instagram.com/aslin_joel_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslin_joel_r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools Learned:</h3>
